@@ -9,6 +9,7 @@ The content provided within this repository was demonstrated live during the Mar
 ## Contents
 
 * [locations.sql](demos/locations.sql) - A simple collection of SQL statements that demonstrate various JSON functions that are available within MariaDB.
+* [into_to_json.pptx](presentations/intro_to_json.pptx) - An slide presentation that introduces the fundamentals of using JSON with MariaDB.
 
     **Note:** The demo SQL scripts are meant to be executed step-by-step, not all at once.
 

@@ -122,7 +122,7 @@ INSERT INTO locations (type, name, latitude, longitude, attr)
 VALUES ('S', 'United Center', 41.880691, -87.674176, 
     '{
         "details": {"yearOpened": 1994, "capacity": 23500}
-        
+        events: []
     }'
 );
 
